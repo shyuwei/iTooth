@@ -14,6 +14,15 @@
 		F33426EC1A4319380028211A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F33426EB1A4319380028211A /* Images.xcassets */; };
 		F33426EF1A4319380028211A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F33426ED1A4319380028211A /* LaunchScreen.xib */; };
 		F33426FB1A4319380028211A /* iToothTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33426FA1A4319380028211A /* iToothTests.swift */; };
+		F33427051A431BA30028211A /* 手機_首頁底圖-01.png in Resources */ = {isa = PBXBuildFile; fileRef = F33427041A431BA30028211A /* 手機_首頁底圖-01.png */; };
+		F334270A1A431F280028211A /* 手機首頁icon-08.png in Resources */ = {isa = PBXBuildFile; fileRef = F33427061A431F280028211A /* 手機首頁icon-08.png */; };
+		F334270B1A431F280028211A /* 手機首頁icon-11.png in Resources */ = {isa = PBXBuildFile; fileRef = F33427071A431F280028211A /* 手機首頁icon-11.png */; };
+		F334270C1A431F280028211A /* 手機首頁icon-10.png in Resources */ = {isa = PBXBuildFile; fileRef = F33427081A431F280028211A /* 手機首頁icon-10.png */; };
+		F334270D1A431F280028211A /* 手機首頁icon-09.png in Resources */ = {isa = PBXBuildFile; fileRef = F33427091A431F280028211A /* 手機首頁icon-09.png */; };
+		F33427121A43202F0028211A /* 口腔衛教專區-01.png in Resources */ = {isa = PBXBuildFile; fileRef = F334270E1A43202F0028211A /* 口腔衛教專區-01.png */; };
+		F33427131A43202F0028211A /* 牙醫院所資料查詢-01.png in Resources */ = {isa = PBXBuildFile; fileRef = F334270F1A43202F0028211A /* 牙醫院所資料查詢-01.png */; };
+		F33427141A43202F0028211A /* 全聯會最新訊息-01.png in Resources */ = {isa = PBXBuildFile; fileRef = F33427101A43202F0028211A /* 全聯會最新訊息-01.png */; };
+		F33427151A43202F0028211A /* IMAG3748.png in Resources */ = {isa = PBXBuildFile; fileRef = F33427111A43202F0028211A /* IMAG3748.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +47,15 @@
 		F33426F41A4319380028211A /* iToothTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iToothTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F33426F91A4319380028211A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F33426FA1A4319380028211A /* iToothTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iToothTests.swift; sourceTree = "<group>"; };
+		F33427041A431BA30028211A /* 手機_首頁底圖-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "手機_首頁底圖-01.png"; path = "../../../Downloads/ICON/手機_首頁底圖-01.png"; sourceTree = "<group>"; };
+		F33427061A431F280028211A /* 手機首頁icon-08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "手機首頁icon-08.png"; path = "../../../Downloads/ICON/手機首頁icon-08.png"; sourceTree = "<group>"; };
+		F33427071A431F280028211A /* 手機首頁icon-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "手機首頁icon-11.png"; path = "../../../Downloads/ICON/手機首頁icon-11.png"; sourceTree = "<group>"; };
+		F33427081A431F280028211A /* 手機首頁icon-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "手機首頁icon-10.png"; path = "../../../Downloads/ICON/手機首頁icon-10.png"; sourceTree = "<group>"; };
+		F33427091A431F280028211A /* 手機首頁icon-09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "手機首頁icon-09.png"; path = "../../../Downloads/ICON/手機首頁icon-09.png"; sourceTree = "<group>"; };
+		F334270E1A43202F0028211A /* 口腔衛教專區-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "口腔衛教專區-01.png"; path = "../../../Downloads/ICON/口腔衛教專區-01.png"; sourceTree = "<group>"; };
+		F334270F1A43202F0028211A /* 牙醫院所資料查詢-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "牙醫院所資料查詢-01.png"; path = "../../../Downloads/ICON/牙醫院所資料查詢-01.png"; sourceTree = "<group>"; };
+		F33427101A43202F0028211A /* 全聯會最新訊息-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "全聯會最新訊息-01.png"; path = "../../../Downloads/ICON/全聯會最新訊息-01.png"; sourceTree = "<group>"; };
+		F33427111A43202F0028211A /* IMAG3748.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMAG3748.png; path = ../../../Downloads/ICON/IMAG3748.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +111,15 @@
 		F33426E01A4319380028211A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F334270E1A43202F0028211A /* 口腔衛教專區-01.png */,
+				F334270F1A43202F0028211A /* 牙醫院所資料查詢-01.png */,
+				F33427101A43202F0028211A /* 全聯會最新訊息-01.png */,
+				F33427111A43202F0028211A /* IMAG3748.png */,
+				F33427061A431F280028211A /* 手機首頁icon-08.png */,
+				F33427071A431F280028211A /* 手機首頁icon-11.png */,
+				F33427081A431F280028211A /* 手機首頁icon-10.png */,
+				F33427091A431F280028211A /* 手機首頁icon-09.png */,
+				F33427041A431BA30028211A /* 手機_首頁底圖-01.png */,
 				F33426E11A4319380028211A /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,9 +222,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F33427121A43202F0028211A /* 口腔衛教專區-01.png in Resources */,
+				F33427131A43202F0028211A /* 牙醫院所資料查詢-01.png in Resources */,
 				F33426EA1A4319380028211A /* Main.storyboard in Resources */,
+				F334270B1A431F280028211A /* 手機首頁icon-11.png in Resources */,
+				F334270D1A431F280028211A /* 手機首頁icon-09.png in Resources */,
+				F334270C1A431F280028211A /* 手機首頁icon-10.png in Resources */,
+				F33427141A43202F0028211A /* 全聯會最新訊息-01.png in Resources */,
 				F33426EF1A4319380028211A /* LaunchScreen.xib in Resources */,
+				F334270A1A431F280028211A /* 手機首頁icon-08.png in Resources */,
+				F33427051A431BA30028211A /* 手機_首頁底圖-01.png in Resources */,
 				F33426EC1A4319380028211A /* Images.xcassets in Resources */,
+				F33427151A43202F0028211A /* IMAG3748.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +378,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = iTooth/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -352,6 +389,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = iTooth/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
